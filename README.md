@@ -2,6 +2,10 @@
 
 Vue3 + vite 开发的前端登录验证功能，包含校验码、图片滑块、点选文字功能，内容参考来源于开源项目。
 
+参考内容：
+[1]前端滑块验证：https://blog.csdn.net/yuleiming21/article/details/133345996
+[2]文字依次点击验证：https://gitee.com/wyanhui02/html_css_demo/tree/master/code/191
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).

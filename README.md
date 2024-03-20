@@ -1,6 +1,6 @@
 # vue-login-verify
 
-Vue3 + vite 开发的前端登录验证功能，包含校验码、图片滑块、点选文字功能，内容参考来源于开源项目。
+Vue3 + vite 开发的前端登录验证功能，包含校验码、图片滑块、文字依次点击。
 
 参考内容：
 [1]前端滑块验证：https://blog.csdn.net/yuleiming21/article/details/133345996
